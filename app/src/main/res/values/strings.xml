@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StackUsers</string>
+    <string name="error">Error</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="server_error">There was an error retrieving information from the server</string>
+    <string name="get_users_success">Users fetched successfully from server</string>
+</resources>
