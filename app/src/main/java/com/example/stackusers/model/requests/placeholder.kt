@@ -1,4 +1,4 @@
-package com.example.dogofwisdom.model.requests
+package com.example.stackusers.model.requests
 
 class placeholder {
 }
